@@ -1,0 +1,4 @@
+Good mental health helps you enjoy life and cope with problems. It offers a feeling of well-being and inner strength. Just as you take care of your body by eating right and exercising, you can do things to protect your mental health. 
+
+Mental health plays an very important role in life. so taking it into consideration as a primary precaution, in the prototype i tried to develop something for elderly which not only guide and help for diseases prevention but also a develope a mental health with the help of quotes and tried to motivate.
+I focused on primodial and primary stages of prevention of 4 diseases which are very common in India. Also the prototype is designed for general public, though i was needed to make the prototype for Sunita Sharma and was asked to identify one use case, but i thought that making it for general and developing it then can result a better solution, if not for now but after it can.
